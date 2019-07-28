@@ -1,0 +1,2 @@
+# NRF24M-SENSORS
+ 基于NRF24M模块的电池传感器
